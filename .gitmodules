@@ -1,0 +1,3 @@
+[submodule "cm-lab-salt"]
+	path = cm-lab-salt
+	url = https://github.com/viq/cm-lab-salt.git
